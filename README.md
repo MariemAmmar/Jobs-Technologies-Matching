@@ -1,4 +1,4 @@
-Jobs Technologies Matching
+Jobs Technologies Matching (End-to-end Data Scienc Project)
 ==============================
 
 We are going to develop a data-driven solution for students to answer some questions : Which skills do I need t learn for my future IT job ?, They mostly want to understand the relationships between the jobs and the technologies.
